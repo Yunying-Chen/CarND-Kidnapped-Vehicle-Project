@@ -24,8 +24,11 @@ In this project **100 particles** are used.
 System Time: 51.76s  
 
 | ESTIMATION | ERROR |  
-| :- | :- | 
+| - | - | 
 | x | 0.116 | 
 | y | 0.107 | 
-| yaw | 0.004 |                             
+| yaw | 0.004 |   
+
+
+
 ![Image text](https://github.com/Yunying-Chen/CarND-Kidnapped-Vehicle-Project/blob/master/img/result.png)    

@@ -21,9 +21,10 @@ From the build directory, execute the following command line:
 
 ## Performance
 In this project **100 particles** are used.                              
-System Time: 51.76s                                       
+System Time: 51.76s  
+
 | ESTIMATION | ERROR |  
-| - | -: | 
+| :- | :- | 
 | x | 0.116 | 
 | y | 0.107 | 
 | yaw | 0.004 |                             

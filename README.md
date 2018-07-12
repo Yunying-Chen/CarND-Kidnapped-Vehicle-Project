@@ -1,7 +1,7 @@
 # CarND-Kidnapped-Vehicle-Project                   
 
 ## Intro
-In this project, a prticle filter is built to estimate the location of the car. A map and some initial localization information (analogous to what a GPS would provide) are provided. At each time step, observation and control data are also given.
+In this project, a particle filter is built to estimate the location of the car. A map and some initial localization information (analogous to what a GPS would provide) are provided. At each time step, observation and control data are also given.
 
 
 ## Dependencies                      
